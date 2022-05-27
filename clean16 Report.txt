@@ -1,0 +1,649 @@
+﻿clean16.swf Filmbericht
+------------------------
+
+Metadaten
+---------
+Byte          Wert
+----------    ----
+      3790    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2011-08-13T18:35:08+02:00</xmp:CreateDate> <xmp:MetadataDate>2012-11-18T18:05:06+01:00</xmp:MetadataDate> <xmp:ModifyDate>2012-11-18T18:05:06+01:00</xmp:ModifyDate> <xmp:Rating>5</xmp:Rating> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> <dc:title> <rdf:Alt> <rdf:li xml:lang="x-default">clean16 - Grafik |  Print | Webdesign</rdf:li> </rdf:Alt> </dc:title> <dc:creator> <rdf:Seq> <rdf:li>T-POW</rdf:li> </rdf:Seq> </dc:creator> <dc:description> <rdf:Alt> <rdf:li xml:lang="x-default">Die 1-Mann allround Werbeagentur mit Suchtkarakter. Du brauchst bestimmte Medien wie Visitenkarten, Fyer oder einen Internetauftritt, T-POW lieferts Dir frei Haus oder per Web auf Deinen Rechner. Hilfe in allen Lebenslagen - einfach durchklingeln 01773201809</rdf:li> </rdf:Alt> </dc:description> <dc:subject> <rdf:Bag> <rdf:li>grafik</rdf:li> <rdf:li>webdesign</rdf:li> <rdf:li>print</rdf:li> <rdf:li>hosting</rdf:li> <rdf:li>web</rdf:li> <rdf:li>grafikdesign</rdf:li> <rdf:li>drucke</rdf:li> <rdf:li>flyer</rdf:li> <rdf:li>visitenkarten</rdf:li> </rdf:Bag> </dc:subject> <dc:rights> <rdf:Alt> <rdf:li xml:lang="x-default">copyright by clean16</rdf:li> </rdf:Alt> </dc:rights> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DocumentID>xmp.did:E8449CBF9031E211B22EF6C0E071B9A6</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:E8449CBF9031E211B22EF6C0E071B9A6</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:DF8C70C0CEC5E0119E87E50F2EA4F2FA</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:E7449CBF9031E211B22EF6C0E071B9A6</stRef:instanceID> <stRef:documentID>xmp.did:DF8C70C0CEC5E0119E87E50F2EA4F2FA</stRef:documentID> <stRef:originalDocumentID>xmp.did:DF8C70C0CEC5E0119E87E50F2EA4F2FA</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"> <photoshop:AuthorsPosition>Designer</photoshop:AuthorsPosition> <photoshop:CaptionWriter>T-POW</photoshop:CaptionWriter> <photoshop:DateCreated>2012-01-01</photoshop:DateCreated> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"> <xmpRights:Marked>True</xmpRights:Marked> </rdf:Description> <rdf:Description rdf:about="" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"> <Iptc4xmpCore:IntellectualGenre>Commercial</Iptc4xmpCore:IntellectualGenre> <Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"> <Iptc4xmpCore:CiAdrExtadr>Tübinger Str. 20 / G6 (President Suit)</Iptc4xmpCore:CiAdrExtadr> <Iptc4xmpCore:CiAdrCity>Rottenburg a.N</Iptc4xmpCore:CiAdrCity> <Iptc4xmpCore:CiAdrRegion>Baden-Wuerttemberg</Iptc4xmpCore:CiAdrRegion> <Iptc4xmpCore:CiAdrPcode>72108</Iptc4xmpCore:CiAdrPcode> <Iptc4xmpCore:CiAdrCtry>Country Hood</Iptc4xmpCore:CiAdrCtry> <Iptc4xmpCore:CiTelWork>01773201809</Iptc4xmpCore:CiTelWork> <Iptc4xmpCore:CiEmailWork>service@clean16.de; info@green15.de; service@candycams.net; me@phreakstore.net; dreamteam@cuntguide.com</Iptc4xmpCore:CiEmailWork> <Iptc4xmpCore:CiUrlWork>clean16.de, cuntguide.com, green15.de, candycams.net, sexkontaktefinden.net, teens-poppen.com, </Iptc4xmpCore:CiUrlWork> </Iptc4xmpCore:CreatorContactInfo> </rdf:Description> <rdf:Description rdf:about="" xmlns:swf="http://ns.adobe.com/swf/1.0/"> <swf:type>application</swf:type> </rdf:Description> </rdf:RDF> 
+
+Bild #    Bildbytes     Bytes gesamt    Szene
+------    ----------    ------------    -----
+     1        204634          204634    Intro (AS 2.0-Klassen Exportbild)
+     2          1219          205853    
+     3          1118          206971    
+     4         27530          234501    Start_Explosion
+     5            13          234514    
+     6            13          234527    
+     7            13          234540    
+     8            13          234553    
+     9            13          234566    
+    10             8          234574    
+    11            13          234587    
+    12            13          234600    
+    13            13          234613    
+    14            13          234626    
+    15            13          234639    
+    16            13          234652    
+    17            13          234665    
+    18            13          234678    
+    19            13          234691    
+    20            13          234704    
+    21            13          234717    
+    22            13          234730    
+    23          8354          243084    Intro_About
+    24           185          243269    
+    25           185          243454    
+    26           185          243639    
+    27           185          243824    
+    28           185          244009    
+    29           220          244229    
+    30           216          244445    
+    31           216          244661    
+    32           216          244877    
+    33           186          245063    
+    34           187          245250    
+    35           186          245436    
+    36           613          246049    
+    37         17814          263863    About
+    38             2          263865    
+    39             2          263867    
+    40             2          263869    
+    41             2          263871    
+    42             2          263873    
+    43             2          263875    
+    44             2          263877    
+    45             2          263879    
+    46             2          263881    
+    47             2          263883    
+    48             2          263885    
+    49             2          263887    
+    50             2          263889    
+    51         11192          275081    
+    52          1663          276744    
+    53            89          276833    
+    54            89          276922    
+    55            89          277011    
+    56            89          277100    
+    57            89          277189    
+    58            89          277278    
+    59            89          277367    
+    60            89          277456    
+    61            89          277545    
+    62          5211          282756    
+    63           128          282884    Service_Explosion
+    64            13          282897    
+    65            13          282910    
+    66            13          282923    
+    67            13          282936    
+    68            13          282949    
+    69             8          282957    
+    70            13          282970    
+    71            13          282983    
+    72            13          282996    
+    73            13          283009    
+    74            13          283022    
+    75            13          283035    
+    76            13          283048    
+    77            13          283061    
+    78            13          283074    
+    79            13          283087    
+    80            13          283100    
+    81            13          283113    
+    82           514          283627    Intro_Service
+    83           185          283812    
+    84           185          283997    
+    85           185          284182    
+    86           185          284367    
+    87           185          284552    
+    88           220          284772    
+    89           216          284988    
+    90           216          285204    
+    91           216          285420    
+    92           186          285606    
+    93           187          285793    
+    94           186          285979    
+    95           510          286489    
+    96          2554          289043    Service
+    97             2          289045    
+    98             2          289047    
+    99             2          289049    
+   100             2          289051    
+   101           403          289454    
+   102            58          289512    
+   103            58          289570    
+   104            58          289628    
+   105            58          289686    
+   106            58          289744    
+   107            58          289802    
+   108            58          289860    
+   109            58          289918    
+   110            67          289985    
+   111            58          290043    
+   112            58          290101    
+   113            58          290159    
+   114           331          290490    
+   115            58          290548    
+   116            58          290606    
+   117            58          290664    
+   118            58          290722    
+   119            67          290789    
+   120            58          290847    
+   121            58          290905    
+   122            58          290963    
+   123            58          291021    
+   124           317          291338    
+   125            58          291396    
+   126            58          291454    
+   127            58          291512    
+   128            58          291570    
+   129            58          291628    
+   130            58          291686    
+   131            58          291744    
+   132            58          291802    
+   133            58          291860    
+   134           283          292143    
+   135             2          292145    
+   136             2          292147    
+   137             2          292149    
+   138             2          292151    
+   139             2          292153    
+   140             2          292155    
+   141             2          292157    
+   142             2          292159    
+   143             2          292161    
+   144          6649          298810    
+   145          4131          302941    
+   146          5830          308771    
+   147           128          308899    Done_Explosion
+   148            13          308912    
+   149            13          308925    
+   150            13          308938    
+   151            13          308951    
+   152            13          308964    
+   153             8          308972    
+   154            13          308985    
+   155            13          308998    
+   156            13          309011    
+   157            13          309024    
+   158            13          309037    
+   159            13          309050    
+   160            13          309063    
+   161            13          309076    
+   162            13          309089    
+   163            13          309102    
+   164            13          309115    
+   165            13          309128    
+   166           293          309421    Intro_Done
+   167           185          309606    
+   168           185          309791    
+   169           185          309976    
+   170           185          310161    
+   171           185          310346    
+   172           220          310566    
+   173           216          310782    
+   174           216          310998    
+   175           216          311214    
+   176           186          311400    
+   177           187          311587    
+   178           186          311773    
+   179           324          312097    
+   180          1415          313512    Done
+   181            58          313570    
+   182            58          313628    
+   183            58          313686    
+   184            58          313744    
+   185            58          313802    
+   186            58          313860    
+   187            58          313918    
+   188            58          313976    
+   189            58          314034    
+   190           166          314200    
+   191            58          314258    
+   192            58          314316    
+   193            58          314374    
+   194            58          314432    
+   195            58          314490    
+   196            58          314548    
+   197            58          314606    
+   198            58          314664    
+   199            58          314722    
+   200           173          314895    
+   201            58          314953    
+   202            58          315011    
+   203            58          315069    
+   204            58          315127    
+   205           167          315294    
+   206            58          315352    
+   207            58          315410    
+   208            58          315468    
+   209       1682619         1998087    
+   210          4430         2002517    Done2
+   211          3800         2006317    Done3
+   212           192         2006509    Contact_Explosion
+   213            13         2006522    
+   214            13         2006535    
+   215            13         2006548    
+   216            13         2006561    
+   217            13         2006574    
+   218             8         2006582    
+   219            13         2006595    
+   220            13         2006608    
+   221            13         2006621    
+   222            13         2006634    
+   223            13         2006647    
+   224            13         2006660    
+   225            13         2006673    
+   226            13         2006686    
+   227            13         2006699    
+   228            13         2006712    
+   229            13         2006725    
+   230            13         2006738    
+   231           293         2007031    Intro_Contact
+   232           185         2007216    
+   233           185         2007401    
+   234           185         2007586    
+   235           185         2007771    
+   236           185         2007956    
+   237           220         2008176    
+   238           216         2008392    
+   239           216         2008608    
+   240           216         2008824    
+   241           186         2009010    
+   242           187         2009197    
+   243           186         2009383    
+   244           324         2009707    
+   245          1795         2011502    Contact
+   246            57         2011559    
+   247            57         2011616    
+   248            57         2011673    
+   249            57         2011730    
+   250            57         2011787    
+   251            57         2011844    
+   252            57         2011901    
+   253            57         2011958    
+   254            57         2012015    
+   255            57         2012072    
+   256            57         2012129    
+   257            57         2012186    
+   258            57         2012243    
+   259            57         2012300    
+   260            57         2012357    
+   261            57         2012414    
+   262         35053         2047467    
+   263          1753         2049220    
+
+Szene                Formbytes     Textbytes     ActionScript-Bytes
+-----------------    ----------    ----------    ------------------
+Intro                      7224           140                  3734
+Start_Explosion               0             0                     0
+Intro_About                   0            56                   215
+About                       391           112                  1199
+Service_Explosion             0             0                     0
+Intro_Service                 0            56                   430
+Service                       0           280                  3344
+Done_Explosion                0             0                     0
+Intro_Done                    0            56                     0
+Done                          0           112                  2789
+Done2                         0            56                  2769
+Done3                         0            56                  2371
+Contact_Explosion             0             0                     0
+Intro_Contact                63            56                     0
+Contact                       0           279                  2906
+
+Symbol                     Formbytes     Textbytes     ActionScript-Bytes
+-----------------------    ----------    ----------    ------------------
+a_mc_contact                        0             0                     2
+ABOUT TAX                           0          1379                     0
+ABOUT_LOGO                        716             0                     0
+about_text                          0          1169                     0
+about_words                         0             0                     0
+B-xampp                             0             0                     0
+b_clear                             0             0                     0
+b_contact                          58             0                     0
+b_grafikdesign                      0             0                     0
+Background Radio                  125             0                     0
+big'screen                          0             0                     0
+bigScreen                          85             0                     0
+BigShady                            0             0                     4
+BigShadyBlink                      84             0                     0
+blink                              52             0                     0
+blink mc                            0             0                     0
+blink1                              0             0                     0
+blinksplash                         0             0                     0
+bt_flash                            0             0                     0
+button_drucksachen                 99            75                     0
+button_grafikdesign                99            77                     0
+button_more                        99            77                     0
+button_webdesign                   99            71                     0
+a_about                             0             0                     3
+a_service                           0             0                     2
+b_about                            39             0                     0
+b_done                             57             0                     0
+b_service                           0             0                     0
+g_about                           372             0                     0
+g_done                              0             0                     0
+g_service                           0            47                     0
+gg_done                           341             0                     0
+mc_about                            0             0                     2
+mc_done                             0             0                     2
+mc2_done                            0             0                     2
+s_about                             0             0                     0
+s_service                           0             0                     2
+clearshadow                       273            55                     0
+contact text                        0             0                     0
+GRAFI_SERVICE_CONENT              828             0                     0
+grafik_service_content2             0             0                     2
+ENTER                               0             0                     0
+Eva                                 0             0                     2
+Explorer                          111             0                     0
+Geringe Lautst.                     0             0                     0
+flat blue play                    209             0                     0
+Footer Info                         0             0                     0
+form                                0           164                     0
+Fullscreen                        107             0                     0
+Fullscreen-b                       62             0                     0
+g_contact                         629             0                     0
+Homepageanfrage                     0            84                     0
+Ich                                 0             0                     2
+impress_closer                     88           155                     0
+impressum                          60            51                     0
+impressum_text                     84         16378                    83
+jhfhdgfc                           62             0                     0
+lil'screene                         0             0                     0
+lil'screene 2                       0             0                     0
+lil'screene 3                       0             0                     0
+lil'screene 4                       0             0                     0
+lil screen2                         0             0                     0
+line                                0             0                     2
+loading                             0             0                     0
+loading inn                         0           154                     0
+LOGO                              728            95                     0
+logostar                            0             0                     0
+logostar inn                        0             0                     0
+logotext                            0             0                     0
+logotextinn                         0             0                     0
+mc_d_contact                        0             0                     2
+mc_xampp                            0             0                     0
+Menue Background                  448             0                     0
+mutebutton                        103             0                     4
+namefield                         174             0                     2
+nomassageframe                     56             0                     0
+nomessage                           0             0                     4
+noname                              0             0                     4
+Panel                             108             0                     0
+Panel 2                            83             0                     0
+phreakshw                           0             0                     0
+poplook                           146           118                     0
+screen1                             0             0                     0
+screen1 button                      0             0                     0
+screen1 fade                       95             0                     6
+screen1 klickout                    0             0                     4
+screen2                             0             0                     0
+screen3                             0             0                     0
+screen4                             0             0                     0
+screen4.2                           0             0                     0
+screen8                             0             0                     0
+screen9                             0             0                     0
+screen10                            0             0                     0
+screen11                            0             0                     0
+screen12                          100             0                     0
+screen13                            0             0                     0
+screen111                           0             0                     0
+screend2                            0             0                     0
+screenD3                            0             0                     0
+screend4                            0             0                     0
+screend33                           0             0                     0
+screend44                           0             0                     0
+send                                0             0                     0
+senshadow                           0            56                     0
+service_druck_content             479          1620                     0
+service_druck_content2              0             0                     2
+shader                              0             0                     0
+shader1                            83             0                     0
+shaderstar                        187             0                     0
+shady                               0             0                     0
+show_grafikdesign                  49          2744                   359
+showpanel                           0             0                     0
+showscreen                          0             0                     0
+Sound                             193             0                     0
+soundbutton                         0             0                     0
+Stars L                          6482             0                     0
+starsgetkicked                      0             0                     0
+Symbol 1                           58             0                     0
+Symbol 2                           61             0                     0
+Symbol 3                            0             0                     0
+Symbol 4                            0             0                     0
+Symbol 5                            0             0                     0
+Symbol 6                            0             0                     0
+Symbol 7                            0             0                     0
+Symbol 8                            0             0                     0
+Symbol 9                            0             0                     0
+Symbol 10                           0             0                     0
+Symbol 11                           0             0                     0
+Symbol 12                           0             0                     0
+Symbol 13                           0             0                     0
+Symbol 14                           0             0                     0
+Symbol 15                           0             0                     0
+Symbol 16                           0             0                     0
+Symbol 17                           0             0                     0
+Symbol 18                           0             0                     0
+Symbol 19                           0             0                     0
+Symbol 20                           0             0                     0
+Symbol 21                           0             0                     0
+Symbol 22                           0             0                     0
+Symbol 23                           0             0                     0
+Symbol 24                           0           209                     0
+Symbol 25                           0           200                     0
+SYMBOLE                             0             0                     0
+text_grafik_service                 0             0                     2
+text_grafik_service2                0          1375                     0
+topstar                           179             0                     0
+topstars                            0             0                     0
+Tween 1                             0             0                     0
+Tween 2                             0             0                     0
+Tween 3                             0             0                     0
+Tween 4                             0             0                     0
+Tween 5                             0             0                     0
+Tween 6                           275             0                     0
+Tween 7                             0             0                     0
+Tween 8                           283             0                     0
+Tween 9                             0             0                     0
+Tween 10                          261             0                     0
+Tween 11                            0             0                     0
+Tween 12                            0             0                     0
+Tween 13                            0             0                     0
+Tween 14                          279             0                     0
+Tween 15                            0             0                    15
+Tween 16                            0             0                    27
+Tween 17                            0             0                     0
+Tween 18                            0             0                     0
+Tween 19                            0             0                     0
+Tween 20                            0             0                     0
+Tween 21                            0             0                     0
+Tween 22                            0             0                     0
+Tween 23                            0             0                     0
+Tween 24                            0             0                     0
+Tween 25                           59             0                     0
+Tween 26                           57             0                     0
+Tween 27                            0             0                     0
+Tween 28                            0            96                     0
+Tween 29                            0             0                     0
+Tween 30                            0           259                     0
+Tween 31                            0             0                     0
+Tween 32                          319             0                     0
+Tween 33                            0            78                     0
+Tween 34                            0             0                     0
+Tween 35                            0             0                     0
+Tween 36                            0          1786                     0
+Tween 37                            0             0                     0
+Tween 38                            0             0                     0
+Tween 39                            0             0                     0
+Tween 40                            0             0                     0
+Tween 41                            0             0                     0
+Tween 42                            0             0                     0
+Tween 43                            0             0                     0
+Tween 44                            0             0                     0
+Tween 45                            0             0                     0
+Tween 46                            0             0                     0
+Tween 47                            0             0                     0
+Tween 48                            0             0                     0
+Tween 49                            0             0                     0
+Tween 50                            0             0                     0
+Tween 51                            0             0                     0
+Tween 52                            0            56                     0
+Tween 53                            0             0                     0
+Tween 54                            0             0                     0
+Tween 55                            0             0                     0
+wbdesign service 2                  0             0                     2
+webdesgn service 1                981          1926                     0
+webservice 1                        0           896                     0
+www                                 0            60                     0
+wwwfade                             0             0                     2
+
+Schriftart           Byte          Zeichen
+-----------------    ----------    -------
+MyriadPro-Regular          2640     GPWabdefgiknrst| 
+Arial-BoldMT Fett          9646     /ABCDEFGHIKLMNOPRSTWYacdeghimnorstv 
+ArialMT                   15920     "()+,-./0123456789:;=?@ABCDEFGHIKLMNOPQRSTUVWXZabcdefghijklmnoprstuvwxyz §©Üßäöü
+OratorStd                    33    
+
+ActionScript-Bytes    Position
+------------------    --------
+              1442    Intro:bausetelle:1
+                40    Intro:Footer:1:Kein Instanzname zugewiesen(Fullscreen-b)
+                 2    mutebutton:Ebene 2:1
+                 2    mutebutton:Ebene 2:2
+                 2    a_mc_contact:Ebene 2:11
+                 2    mc_d_contact:Ebene 4:17
+                11    Intro:Menue:1:Kein Instanzname zugewiesen(b_contact)
+                 2    mc_done:Ebene 3:11
+                 2    mc2_done:Ebene 4:19
+                11    Intro:Menue:1:Kein Instanzname zugewiesen(b_done)
+                 2    a_service:Ebene 3:10
+                 2    s_service:Ebene 4:18
+                11    Intro:Menue:1:Kein Instanzname zugewiesen(b_service)
+                 1    a_about:Ebene 4:1
+                 2    a_about:Ebene 4:10
+                 2    mc_about:Ebene 2:18
+                11    Intro:Menue:1:Kein Instanzname zugewiesen(b_about)
+              1106    Intro:bausetelle:2
+              1102    Intro:bausetelle:3
+                15    Tween 15:Ebene 1:1:Kein Instanzname zugewiesen(b_about)
+               215    Intro_About:Ebene 8:14
+                27    Tween 16:Ebene 1:1:Kein Instanzname zugewiesen(b_about)
+                11    About:Menue:1:Kein Instanzname zugewiesen(b_contact)
+                11    About:Menue:1:Kein Instanzname zugewiesen(b_done)
+                11    About:Menue:1:Kein Instanzname zugewiesen(b_service)
+                65    About:impressum:1:Kein Instanzname zugewiesen(impressum)
+                 2    impressum_text:Ebene 2:1
+                 2    impressum_text:Ebene 2:2
+                79    impressum_text:Ebene 1:2:Kein Instanzname zugewiesen(impress_closer)
+              1101    About:Ebene 8:26
+               215    Intro_Service:Ebene 8:1
+               215    Intro_Service:Ebene 8:14
+                11    Service:Menue:1:Kein Instanzname zugewiesen(b_about)
+                10    Service:button_grafikdesign:6:Kein Instanzname zugewiesen(button_grafikdesign)
+                10    Service:button_drucksachen:19:Kein Instanzname zugewiesen(button_drucksachen)
+              1101    Service:Ebene 8:49
+                10    Service:button_webdesign:49:Kein Instanzname zugewiesen(button_webdesign)
+                 2    grafik_service_content2:Ebene 1:15
+                 2    text_grafik_service:Ebene 1:15
+              1101    Service:Ebene 8:50
+                 2    service_druck_content2:Ebene 1:15
+              1101    Service:Ebene 8:51
+                 2    wwwfade:Ebene 1:12
+                 2    wbdesign service 2:Ebene 1:15
+                10    Done:button_grafikdesign:1:Kein Instanzname zugewiesen(button_grafikdesign)
+                10    Done:button_drucksachen:11:Kein Instanzname zugewiesen(button_drucksachen)
+                10    Done:button_drucksachen:21:Kein Instanzname zugewiesen(button_drucksachen)
+              1101    Done:Ebene 8:30
+                10    Done:button_webdesign:30:Kein Instanzname zugewiesen(button_webdesign)
+               412    Done:lil'screene 4:30:Kein Instanzname zugewiesen(screen4.2)
+                 2    screen1 fade:Ebene 1:1
+                 2    screen1 fade:Ebene 1:16
+                 2    screen1 fade:Ebene 1:17
+                 2    screen1 klickout:Ebene 33:1
+                 2    screen1 klickout:Ebene 33:8
+               412    Done:lil'screene 3:30:Kein Instanzname zugewiesen(screen3)
+               412    Done:lil'screene 2:30:Kein Instanzname zugewiesen(screen4)
+               412    Done:lil'screene 1:30:Kein Instanzname zugewiesen(screen11)
+                 2    show_grafikdesign:actions:1
+                 2    show_grafikdesign:actions:2
+                 2    show_grafikdesign:actions:3
+                 2    show_grafikdesign:actions:4
+                 2    show_grafikdesign:actions:5
+                 2    show_grafikdesign:actions:6
+                64    show_grafikdesign:Ebene 1:6:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:7
+                64    show_grafikdesign:Ebene 1:7:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:8
+                64    show_grafikdesign:Ebene 1:8:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:9
+                61    show_grafikdesign:Ebene 1:9:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:10
+                37    show_grafikdesign:Ebene 1:10:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:11
+                45    show_grafikdesign:Ebene 1:11:Kein Instanzname zugewiesen(poplook)
+                 2    show_grafikdesign:actions:12
+                 2    BigShady:Ebene 2:1
+                 2    BigShady:Ebene 2:16
+              1101    Done2:Ebene 8:1
+                10    Done2:button_drucksachen:1:Kein Instanzname zugewiesen(button_drucksachen)
+                10    Done2:button_grafikdesign:1:Kein Instanzname zugewiesen(button_grafikdesign)
+               412    Done2:lil'screene 4:1:Kein Instanzname zugewiesen(screend44)
+               412    Done2:lil'screene 3:1:Kein Instanzname zugewiesen(screend33)
+               412    Done2:lil'screene 2:1:Kein Instanzname zugewiesen(screend2)
+               412    Done2:lil'screene 1:1:Kein Instanzname zugewiesen(screen9)
+              1101    Done3:Ebene 8:1
+               412    Done3:lil'screene 3:1:Kein Instanzname zugewiesen(screen13)
+               412    Done3:lil'screene 2:1:Kein Instanzname zugewiesen(screen10)
+               412    Done3:lil'screene 1:1:Kein Instanzname zugewiesen(screen111)
+                10    Done3:lil'screene 1:1:Kein Instanzname zugewiesen(screen12)
+                24    Done3:Piccaz:1:Kein Instanzname zugewiesen(Homepageanfrage)
+                82    Contact:send:1:Kein Instanzname zugewiesen(send)
+                 2    namefield:Ebene 2:1
+               170    
+                58    Contact:form:1:form(form)
+              1655    Contact:Ebene 8:18
+                 2    Ich:Ebene 2:15
+                 2    line:Ebene 2:25
+                 2    Eva:Ebene 2:35
+                 2    noname:Ebene 2:1
+                 2    noname:Ebene 2:20
+                 2    nomessage:Ebene 2:1
+                 2    nomessage:Ebene 2:20
+              1101    Contact:Ebene 8:19
+                10    Contact:Kontakt:19:Kein Instanzname zugewiesen(b_clear)
+            114195    ActionScript 2.0-Klassen
+
+Bitmap                   Komprimiert    Original      Komprimierung
+---------------------    -----------    ----------    -------------
+t-pow.jpg                     127471       1572864    JPEG-Qualität=100
+sonnenbuel.png                 70550      10991944    Verlustfrei
+cashstar.png                   67483        474744    JPEG-Qualität=100
+Flowristenlogo.jpg            136223       1228800    Importierte JPEG-Datei=102
+flyer_altarfalz-1.jpg         164784       1072800    Importierte JPEG-Datei=102
+weihnachtskarte.jpg           500785       2241280    Importierte JPEG-Datei=102
+candycams_flyer.jpg           259319       1015200    Importierte JPEG-Datei=102
+buchumschlag.jpg              108299        938560    Importierte JPEG-Datei=102
+green15-400.jpg                77094        360000    Importierte JPEG-Datei=102
+candyblog400.jpg              100565        470400    Importierte JPEG-Datei=102
+elite69_400.jpg                57837        360000    Importierte JPEG-Datei=102
+Kopie von T-POW.jpg            29710        160000    JPEG-Qualität=100
+
+Ereignissounds: 22KHz Mono 48 kbps MP3
+
+
+Soundname              Byte          Format
+-------------------    ----------    ------
+sub_dong.wav                 2095    22KHz Mono 48 kbps MP3
+explosion.wav               27315    22KHz Mono 48 kbps MP3
+android_button.wav           9115    22KHz Mono 48 kbps MP3
+android_button2.wav          9115    22KHz Mono 48 kbps MP3
+android_button3.wav          9115    22KHz Mono 48 kbps MP3
+android_button4.wav          9115    22KHz Mono 48 kbps MP3
+
+
+
+
